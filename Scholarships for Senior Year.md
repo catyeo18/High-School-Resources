@@ -1,4 +1,5 @@
 # Scholarships for High School Seniors
+Not a comprehensive list, but for personal consultation. Excludes scholarships with age/location/race/etc. requirements that don't apply to me.
 
 ## Community Service
 | Deadline  | Scholarship                             | Link                                                  | Amount  | # of Winners  | Notes                                                                            |
@@ -21,8 +22,10 @@
 | 12/15/17  | Burger King Scholarship 								| http://www.burgerkingscholarship.com/financial-aid/burger-king-application/ | varies 	| many 					| Application opens 10/15/17 |
 | 1/5/17    | GE-Reagan Foundation Scholarship        | https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/ | $10,000 | many | Very competitive |
 
-## Random Other Scholarships
+## Other Scholarships
 | Deadline  | Scholarship                             | Link                                                  | Amount  | # of Winners  | Notes                                                                            |
 | --------- | --------------------------------------- | ------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
 | 12/2/16   | David Gordon Law Scholarship            | http://www.davidgordonlaw.com/scholarship-2016/       | $750    | 2             | Need to submit a video or essay |
-| 1/20/18   | Meldon Law Scholarship                  | http://www.meldonlaw.com/scholarship/                 | $1000   | 1             | 500-word essay with specific prompt |
+| 1/20/18   | Meldon Law Scholarship                  | http://www.meldonlaw.com/scholarship/                 | $1000   | 1             | 500-word essay about teenage driving |
+| 3/30/17   | Law Offices of Sheryl R. Rentz          | http://www.srrentzlaw.com/scholarship/              	| $500 		| 1							| Need to write introduction and essay about why attend college |
+| 3/30/17 	| Sleeklens Academic Scholarship Program	| sleeklens.com/the-sleeklens-academic-scholarship/			| $2000 	| 3 						| 2000-word essay on social media use |
