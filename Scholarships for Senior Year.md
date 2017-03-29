@@ -1,5 +1,5 @@
 # Scholarships for High School Seniors
-Not a comprehensive list, but for personal consultation. Excludes scholarships with age/location/race/etc. requirements that don't apply to me. **Most**are specific to high school seniors and are not financial need based.
+Not a comprehensive list, but for personal consultation. Excludes scholarships with age/location/race/etc. requirements that don't apply to me. **Most** are specific to high school seniors and are not financial need based.
 
 ## Community Service / Leadership
 | Deadline  | Scholarship                             | Link                                                           | Amount  | # of Winners  | Notes                                                                            |
