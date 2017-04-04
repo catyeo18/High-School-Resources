@@ -18,6 +18,7 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 | 3/31/17   | [Gladys Carol Scholarship Program](http://gcsp.vpweb.com/)                                               | -       | -             | STEM in general, need college acceptance letter |
 | 4/1/17    | [NSHSS Foundation STEM Scholarship](http://nshssfoundation.org/scholarships/stem-scholarships/)          | varies  | -             | Member, STEM in general, underrepresented, need teacher recommendation |
 | 4/27/17   | [ESA Foundation Scholarship Program](http://www.esafoundation.org/scholarship.asp)                       | $3000   | 30            | Pursuing degrees leading to careers in computer and video game arts |
+| 5/1/17    | [Remote DBA Scholarship](www.remotedba.com/remote-dba-experts-to-students-scholarship/)                  | $1000   | 1             | Essay (on using data) + cover letter. Applicant must have an interest in pursuing a data-focused or data science career. |
 | 7/2/17    | [Eli Lilly and Company Scholarship](http://betf.org/scholarships/eli-lilly.shtml)                        | $2500   | 1             | Member 1+ years, "outstanding minority students, with an interest in information technology" |
 | no idea	  | [Buick Achievers Scholarship](https://buickachievers.scholarshipamerica.org)                 			     	 | - 			 | - 			 			 | |
 | no idea   | [MCWT Scholarship](https://www.mcwt.org/Scholarships_196.html)                                           | $20,000 | 1             | Application opens in October, woman pursuing IT |
