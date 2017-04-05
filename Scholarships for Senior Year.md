@@ -43,3 +43,4 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 | 3/30/17 	| [Sleeklens Academic Scholarship Program](www.sleeklens.com/the-sleeklens-academic-scholarship/)			 | $2000 	 | 3 					 	 | 2000-word essay on social media use |
 | 3/31/17   | [Costculator Scholarship Program](http://costculator.com/scholarship/)                               | $1000   | 1             | Essay on importance of entrepreneurship in economic development |
 | 4/30/17   | [Marks and Harrison Scholarship](http://www.marksandharrison.com/scholarship/)                       | $1000+  | 3             | Essay or video on teenage driving |
+| 5/4/17    | [DiBella Law Offices, P.C. Scholarship](http://www.dibellalawoffice.com/scholarship/)                | $500    | 1             | Cover letter + essay on "How will attending college help you achieve your future goals?" |
