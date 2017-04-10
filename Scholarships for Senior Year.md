@@ -13,6 +13,7 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 | Deadline  | Scholarship                                                                                              | Amount  | # of Winners  | Notes                                                                            |
 | --------- | ---------------------------------------------------------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
 | 12/2/16   | [National Space Club Keynote Scholar](http://www.spaceclub.org/scholarship/)                             | $10,000 | 1             | Video, 2 recommendations
+| 12/11/16  | [The Science Ambassador Scholarship](http://www.scienceambassadorscholarship.org/)                       | Tuititon| 1             |A full tuition scholarship for a woman seeking an undergraduate degree in science, engineering, or math. Submit video. |
 | 3/1/17    | VIP Women in Technology Scholarship                                                                      | varies  | many          | GPA >= 3.0, essays, IT-related major
 | 3/15/17   | [Intertech Foundation STEM Scholarship](https://www.intertech.com/about/foundation/scholarship)          | $2500   | -             | GPA >= 3.3, intent to study CS |
 | 3/31/17   | [Gladys Carol Scholarship Program](http://gcsp.vpweb.com/)                                               | -       | -             | STEM in general, need college acceptance letter |
