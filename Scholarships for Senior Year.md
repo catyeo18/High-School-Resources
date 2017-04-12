@@ -8,6 +8,7 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 | 2/9/17    | [Spirit of Anne Frank Scholarship Award](http://annefrank.com/about-the-awards/)                                        | $10,000 | 3             | "leaders in combating intolerance, prejudice and injustice in their communities" |
 | 4/30/17   | [Venture Resorts Volunteer Scholarship](https://www.cabinsofthesmokymountains.com/scholarship.php)                      | $1000+  | 2             | Essay on why you chose to volunteer your time with a community organization and how the experience changed your life. |
 | 5/1/17    | [Community Involvement Scholarship](http://www.indianapilaw.com/hs-community-award/)                                    | $1000   | 1             | Essay; Criteria: Length of community service history; Depth of dedication to the community; Ability to clearly convey a complex message. |
+| 5/1/17    | [StudySoup Future Innovator Scholarship](https://studysoup.com/scholarship)                                             | $2000   | 1             | 3 short essays. 1 scholarship every semester. |
 | 5/15/17   | [Groundbreaker Leadership Scholarship](http://www.againstthegrainproductions.com/groundbreaker-leadership-scholarship/) | $1500   | 4             | Video + Essay on leadership. At least 50% Asian or Pacific Islander. |
 
 ## Computer Science
