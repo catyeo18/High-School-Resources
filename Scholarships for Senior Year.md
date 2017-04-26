@@ -29,10 +29,10 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 ## General Academic
 | Deadline  | Scholarship                                                                                              | Amount  | # of Winners  | Notes                                                                            |
 | --------- | ---------------------------------------------------------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
-| 10/31/16  | [Coca-Cola Scholars Program Scholarship](http://www.coca-colascholarsfoundation.org/apply/)              | varies  | many          | Application opens in 8/17, **very** competitive
-| 11/30/16  | [Elks Most Valuable Student Scholarship](http://www.elks.org/scholars/scholarships/mvs.cfm)              | $1000+  | 20 finalists  | Application opens 9/1/17, very competitive |
+| 10/31/16  | [Coca-Cola Scholars Program Scholarship](http://www.coca-colascholarsfoundation.org/apply/)              | varies  | many          | Application opens in 8/17, **very** competitive, emphasis on community service|
+| 11/30/16  | [Elks Most Valuable Student Scholarship](http://www.elks.org/scholars/scholarships/mvs.cfm)              | $1000+  | 20 finalists  | Application opens 9/1/17, very competitive, financial need is a factor but not required |
 | 12/15/16  | [AXA Achievement Scholarship](https://us.axa.com/axa-foundation/AXA-achievement-scholarship.html)        | $1000+  | many          | Apply as early as possible |
-| 12/15/17  | [Burger King Scholarship](http://www.burgerkingscholarship.com/financial-aid/burger-king-application/)   | varies 	| many 					| Application opens 10/15/17 |
+| 12/15/17  | [Burger King Scholarship](http://www.burgerkingscholarship.com/financial-aid/burger-king-application/)   | varies  | many 				 | Application opens 10/15/17 |
 | 1/5/17    | [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) | $10,000 | many | Very competitive |
 | 2/8/17    | [Jimmy Rane Foundation Scholarship](http://www.jimmyranefoundation.org/scholarships)                     | varies  | 24            | Application opens 12/1/17 |
 
@@ -46,5 +46,7 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 | 3/30/17 	| [Sleeklens Academic Scholarship Program](www.sleeklens.com/the-sleeklens-academic-scholarship/)			 | $2000 	 | 3 					 	 | 2000-word essay on social media use |
 | 3/31/17   | [Costculator Scholarship Program](http://costculator.com/scholarship/)                               | $1000   | 1             | Essay on importance of entrepreneurship in economic development |
 | 4/30/17   | [Marks and Harrison Scholarship](http://www.marksandharrison.com/scholarship/)                       | $1000+  | 3             | Essay or video on teenage driving |
+| 5/1/17    | [Inbound Marketing Scholarship](https://www.revenueriver.co/scholarship)                             | $500    | 1             | 800-1000 word blog post regarding digital marketing (topics are given) |
 | 5/4/17    | [DiBella Law Offices, P.C. Scholarship](http://www.dibellalawoffice.com/scholarship/)                | $500    | 1             | Cover letter + essay on "How will attending college help you achieve your future goals?" |
 | 5/12/17   | [Live Mas Scholarship](https://www.livemasscholarship.com/#home)                                     | $5000+  | 100           | Opens in Feb. Make a video about your passion. >= 16 years old. "This scholarship is for the innovators, creators and dreamers who want to share his/her passion and receive support to pursue this passion through a higher educational outlet."  |
+| 5/16/17   | [Growing Together Scholarship](https://www.theflowerexchange.com/pages/scholarship)                  | $1000   | 1             | An essay of at least 200 words stating how the scholarship can benefit you and your educational plans; community service |
