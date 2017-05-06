@@ -26,6 +26,7 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 | 7/2/17    | [Eli Lilly and Company Scholarship](http://betf.org/scholarships/eli-lilly.shtml)                        | $2500   | 1             | Member 1+ years, "outstanding minority students, with an interest in information technology" |
 | no idea	  | [Buick Achievers Scholarship](https://buickachievers.scholarshipamerica.org)                 			     	 | - 			 | - 			 			 | |
 | no idea   | [MCWT Scholarship](https://www.mcwt.org/Scholarships_196.html)                                           | $20,000 | 1             | Application opens in October, woman pursuing IT |
+| no idea   | [SanDrisk Scholars Program](https://www.sandisk.com/about/corp-responsibility/scholars-program)          | varies  | many          | Possibly financial-need based? Website is vague...
 
 ## General Academic
 | Deadline  | Scholarship                                                                                              | Amount  | # of Winners  | Notes                                                                            |
@@ -51,3 +52,15 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 | 5/4/17    | [DiBella Law Offices, P.C. Scholarship](http://www.dibellalawoffice.com/scholarship/)                | $500    | 1             | Cover letter + essay on "How will attending college help you achieve your future goals?" |
 | 5/12/17   | [Live Mas Scholarship](https://www.livemasscholarship.com/#home)                                     | $5000+  | 100           | Opens in Feb. Make a video about your passion. >= 16 years old. "This scholarship is for the innovators, creators and dreamers who want to share his/her passion and receive support to pursue this passion through a higher educational outlet."  |
 | 5/16/17   | [Growing Together Scholarship](https://www.theflowerexchange.com/pages/scholarship)                  | $1000   | 1             | An essay of at least 200 words stating how the scholarship can benefit you and your educational plans; community service |
+
+
+## California Scholarships
+| Deadline  | Scholarship                                                                                          | Amount  | # of Winners  | Notes                                                                            |
+| 3/30/17   | [California Association of Collectors Educational Scholarship](http://www.cacesf.org/)               | $1500+ | 3 | Essay on given topic
+
+
+
+
+
+
+
