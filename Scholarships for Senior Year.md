@@ -56,7 +56,8 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 
 ## California Scholarships
 | Deadline  | Scholarship                                                                                          | Amount  | # of Winners  | Notes                                                                            |
-| 3/30/17   | [California Association of Collectors Educational Scholarship](http://www.cacesf.org/)               | $1500+ | 3 | Essay on given topic
+| --------- | -----------------------------------------------------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
+| 3/30/17   | [California Association of Collectors Educational Scholarship](http://www.cacesf.org/)               | $1500+  | 3             | Essay on given topic |
 
 
 
