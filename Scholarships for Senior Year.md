@@ -1,6 +1,8 @@
 # Scholarships for High School Seniors
 Not a comprehensive list, but for personal consultation. Excludes scholarships with age/location/race/etc. requirements that don't apply to me. **Most** are specific to high school seniors and are not financial need based.
 
+For more scholarships (many very specific ones), check out this [link](https://jlvcollegecounseling.com/scholarships/age/hs-seniors).
+
 ## Community Service / Leadership
 | Deadline  | Scholarship                                                                                                             | Amount  | # of Winners  | Notes                                                                            |
 | --------- | ------------------------------------------------------------------------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
@@ -37,6 +39,7 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 | 12/15/17  | [Burger King Scholarship](http://www.burgerkingscholarship.com/financial-aid/burger-king-application/)   | varies  | many 				 | Application opens 10/15/17 |
 | 1/5/17    | [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) | $10,000 | many | Very competitive |
 | 2/8/17    | [Jimmy Rane Foundation Scholarship](http://www.jimmyranefoundation.org/scholarships)                     | varies  | 24            | Application opens 12/1/17 |
+| 4/15/18   | [Imagine Kids Foundation Scholarship](http://www.imaginekidsfoundation.org/students/)                    | $500+   | many          | Needs 2 recommendations |
 
 ## Other Scholarships
 | Deadline  | Scholarship                                                                                          | Amount  | # of Winners  | Notes                                                                            |
