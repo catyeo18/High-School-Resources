@@ -3,7 +3,7 @@ Not a comprehensive list, but for personal consultation. Excludes scholarships w
 
 For more scholarships (many very specific ones), check out this [link](https://jlvcollegecounseling.com/scholarships/age/hs-seniors).
 
-## Community Service / Leadership
+## Community Service / Leadership  
 | Deadline  | Scholarship                                                                                                             | Amount  | # of Winners  | Notes                                                                            |
 | --------- | ------------------------------------------------------------------------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
 | 1/7/17    | [Greg Goff Leadership Award](http://www.nshssfoundation.org/scholarships/greg-goff-leadership-awards/)                  | varies  | -             | Outstanding leadership, GPA >= 3.0 |
@@ -33,9 +33,9 @@ For more scholarships (many very specific ones), check out this [link](https://j
 ## General Academic
 | Deadline  | Scholarship                                                                                              | Amount  | # of Winners  | Notes                                                                            |
 | --------- | ---------------------------------------------------------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
-| 10/31/16  | [Coca-Cola Scholars Program Scholarship](http://www.coca-colascholarsfoundation.org/apply/)              | varies  | many          | Application opens in 8/17, **very** competitive, emphasis on community service|
-| 11/30/16  | [Elks Most Valuable Student Scholarship](http://www.elks.org/scholars/scholarships/mvs.cfm)              | $1000+  | 20 finalists  | Application opens 9/1/17, very competitive, financial need is a factor but not required |
-| 12/15/16  | [AXA Achievement Scholarship](https://us.axa.com/axa-foundation/AXA-achievement-scholarship.html)        | $1000+  | many          | Apply as early as possible |
+| 10/31/17  | [Coca-Cola Scholars Program Scholarship](http://www.coca-colascholarsfoundation.org/apply/)              | varies  | many          | Application opens in 8/17, **very** competitive, emphasis on community service|
+| 11/30/17  | [Elks Most Valuable Student Scholarship](http://www.elks.org/scholars/scholarships/mvs.cfm)              | $1000+  | 20 finalists  | Application opens 9/1/17, very competitive, financial need is a factor but not required |
+| 12/15/17  | [AXA Achievement Scholarship](https://us.axa.com/axa-foundation/AXA-achievement-scholarship.html)        | $1000+  | many          | Apply as early as possible |
 | 12/15/17  | [Burger King Scholarship](http://www.burgerkingscholarship.com/financial-aid/burger-king-application/)   | varies  | many 				 | Application opens 10/15/17 |
 | 1/5/17    | [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) | $10,000 | many | Very competitive |
 | 2/8/17    | [Jimmy Rane Foundation Scholarship](http://www.jimmyranefoundation.org/scholarships)                     | varies  | 24            | Application opens 12/1/17 |
