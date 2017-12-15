@@ -23,8 +23,8 @@ For more scholarships (many very specific ones), check out this [link](https://j
 | 3/31/18   | [Gladys Carol Scholarship Program](http://gcsp.vpweb.com/)                                               | -       | -             | STEM in general, need college acceptance letter |
 | 4/1/17    | [NSHSS Foundation STEM Scholarship](http://nshssfoundation.org/scholarships/stem-scholarships/)          | varies  | -             | Member, STEM in general, underrepresented, need teacher recommendation |
 | 4/1/18    | VIP Women in Technology Scholarship                                                                      | varies  | many          | GPA >= 3.0, essays, IT-related major
-| 4/27/17   | [ESA Foundation Scholarship Program](http://www.esafoundation.org/scholarship.asp)                       | $3000   | 30            | Pursuing degrees leading to careers in computer and video game arts |
 | 5/1/17    | [Remote DBA Scholarship](www.remotedba.com/remote-dba-experts-to-students-scholarship/)                  | $1000   | 1             | Essay (on using data) + cover letter. Applicant must have an interest in pursuing a data-focused or data science career. |
+| 5/4/18    | [ESA Foundation Scholarship Program](http://www.esafoundation.org/scholarship.asp)                       | $3000   | 30            | Pursuing degrees leading to careers in computer and video game arts |
 | 7/2/17    | [Eli Lilly and Company Scholarship](http://betf.org/scholarships/eli-lilly.shtml)                        | $2500   | 1             | Member 1+ years, "outstanding minority students, with an interest in information technology" |
 | no idea	  | [Buick Achievers Scholarship](https://buickachievers.scholarshipamerica.org)                 			     	 | - 			 | - 			 			 | |
 | no idea   | [MCWT Scholarship](https://www.mcwt.org/Scholarships_196.html)                                           | $20,000 | 1             | Application opens in October, woman pursuing IT |
@@ -38,7 +38,7 @@ For more scholarships (many very specific ones), check out this [link](https://j
 | 12/15/17  | [AXA Achievement Scholarship](https://us.axa.com/axa-foundation/AXA-achievement-scholarship.html)        | $1000+  | many          | Apply as early as possible |
 | 12/15/17  | [Burger King Scholarship](http://www.burgerkingscholarship.com/financial-aid/burger-king-application/)   | varies  | many 				 | Application opens 10/15/17 |
 | 1/5/17    | [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) | $10,000 | many | Very competitive |
-| 2/8/17    | [Jimmy Rane Foundation Scholarship](http://www.jimmyranefoundation.org/scholarships)                     | varies  | 24            | Application opens 12/1/17 |
+| 2/7/18    | [Jimmy Rane Foundation Scholarship](http://www.jimmyranefoundation.org/scholarship)                      | varies  | 24            | Application opens 12/1/17, region restrictions |
 | 4/15/18   | [Imagine Kids Foundation Scholarship](http://www.imaginekidsfoundation.org/students/)                    | $500+   | many          | Needs 2 recommendations |
 
 ## Other Scholarships
