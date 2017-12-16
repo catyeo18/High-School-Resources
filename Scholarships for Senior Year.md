@@ -1,19 +1,19 @@
 # Scholarships for High School Seniors
 Not a comprehensive list, but for personal consultation. Excludes scholarships with age/location/race/etc. requirements that don't apply to me. **Most** are specific to high school seniors and are not financial need based.
 
-For more scholarships (many very specific ones), check out this [link](https://jlvcollegecounseling.com/scholarships/age/hs-seniors).
+For more scholarships (many very specific ones), check out this [link](https://jlvcollegecounseling.com/scholarships/age/hs-seniors). This is a great, very comprehensive list that includes pretty much every scholarship ever for high school seniors.
 
 ## Community Service / Leadership  
 | Deadline  | Scholarship                                                                                                             | Amount  | # of Winners  | Notes                                                                            |
 | --------- | ------------------------------------------------------------------------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
-| 1/7/17    | [Greg Goff Leadership Award](http://www.nshssfoundation.org/scholarships/greg-goff-leadership-awards/)                  | varies  | -             | Outstanding leadership, GPA >= 3.0 |
+| 1/16/18   | [Greg Goff Leadership Award](http://www.nshssfoundation.org/scholarships/greg-goff-leadership-awards/)                  | varies  | -             | Outstanding leadership, GPA >= 3.0 |
 | 2/9/17    | [Spirit of Anne Frank Scholarship Award](http://annefrank.com/about-the-awards/)                                        | $10,000 | 3             | "leaders in combating intolerance, prejudice and injustice in their communities" |
 | 4/30/17   | [Venture Resorts Volunteer Scholarship](https://www.cabinsofthesmokymountains.com/scholarship.php)                      | $1000+  | 2             | Essay on why you chose to volunteer your time with a community organization and how the experience changed your life. |
 | 5/1/17    | [Community Involvement Scholarship](http://www.indianapilaw.com/hs-community-award/)                                    | $1000   | 1             | Essay; Criteria: Length of community service history; Depth of dedication to the community; Ability to clearly convey a complex message. |
 | 5/1/17    | [StudySoup Future Innovator Scholarship](https://studysoup.com/scholarship)                                             | $2000   | 1             | 3 short essays. 1 scholarship every semester. |
 | 5/15/17   | [Groundbreaker Leadership Scholarship](http://www.againstthegrainproductions.com/groundbreaker-leadership-scholarship/) | $1500   | 4             | Video + Essay on leadership. At least 50% Asian or Pacific Islander. |
 
-## Computer Science
+## Computer Science (Mostly for women/minorities)
 | Deadline  | Scholarship                                                                                              | Amount  | # of Winners  | Notes                                                                            |
 | --------- | ---------------------------------------------------------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
 | 12/2/16   | [National Space Club Keynote Scholar](http://www.spaceclub.org/scholarship/)                             | $10,000 | 1             | Video, 2 recommendations
@@ -28,7 +28,7 @@ For more scholarships (many very specific ones), check out this [link](https://j
 | 7/2/17    | [Eli Lilly and Company Scholarship](http://betf.org/scholarships/eli-lilly.shtml)                        | $2500   | 1             | Member 1+ years, "outstanding minority students, with an interest in information technology" |
 | no idea	  | [Buick Achievers Scholarship](https://buickachievers.scholarshipamerica.org)                 			     	 | - 			 | - 			 			 | |
 | no idea   | [MCWT Scholarship](https://www.mcwt.org/Scholarships_196.html)                                           | $20,000 | 1             | Application opens in October, woman pursuing IT |
-| no idea   | [SanDrisk Scholars Program](https://www.sandisk.com/about/corp-responsibility/scholars-program)          | varies  | many          | Possibly financial-need based? Website is vague...
+| no idea   | [SanDisk Scholars Program](https://www.sandisk.com/about/corp-responsibility/scholars-program)          | varies  | many          | Possibly financial-need based? Website is vague...
 
 ## General Academic
 | Deadline  | Scholarship                                                                                              | Amount  | # of Winners  | Notes                                                                            |
@@ -37,14 +37,14 @@ For more scholarships (many very specific ones), check out this [link](https://j
 | 11/30/17  | [Elks Most Valuable Student Scholarship](http://www.elks.org/scholars/scholarships/mvs.cfm)              | $1000+  | 20 finalists  | Application opens 9/1/17, very competitive, financial need is a factor but not required |
 | 12/15/17  | [AXA Achievement Scholarship](https://us.axa.com/axa-foundation/AXA-achievement-scholarship.html)        | $1000+  | many          | Apply as early as possible |
 | 12/15/17  | [Burger King Scholarship](http://www.burgerkingscholarship.com/financial-aid/burger-king-application/)   | varies  | many 				 | Application opens 10/15/17 |
-| 1/5/17    | [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) | $10,000 | many | Very competitive |
-| 2/7/18    | [Jimmy Rane Foundation Scholarship](http://www.jimmyranefoundation.org/scholarship)                      | varies  | 24            | Application opens 12/1/17, region restrictions |
+| 1/4/18    | [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) | $10,000 | many | Very competitive |
+| 2/7/18    | [Jimmy Rane Foundation Scholarship](http://www.jimmyranefoundation.org/scholarship)                      | varies  | 24            | Application opens 12/1/17, region restrictions, CA excluded |
 | 4/15/18   | [Imagine Kids Foundation Scholarship](http://www.imaginekidsfoundation.org/students/)                    | $500+   | many          | Needs 2 recommendations |
 
 ## Other Scholarships
 | Deadline  | Scholarship                                                                                          | Amount  | # of Winners  | Notes                                                                            |
 | --------- | -----------------------------------------------------------------------------------------------------| ------- | ------------- | -------------------------------------------------------------------------------- |
-| 12/2/16   | [David Gordon Law Scholarship](http://www.davidgordonlaw.com/scholarship-2016/)                      | $750    | 2             | Need to submit a video or essay |
+| 12/8/17   | [David Gordon Law Scholarship](http://www.davidgordonlaw.com/scholarship-2017/)                      | $750    | 2             | Need to submit a video or essay |
 | 1/15/18   | [Mensa US Scholarship](www.mensafoundation.org/what-we-do/scholarships)                              | -       | -             | Opens 1/15, essay on career/academic goals|    
 | 1/20/18   | [Meldon Law Scholarship](http://www.meldonlaw.com/scholarship/)                                      | $1000   | 1             | 500-word essay about teenage driving |
 | 3/30/17   | [Law Offices of Sheryl R. Rentz](http://www.srrentzlaw.com/scholarship/)                             | $500 	 | 1						 | Need to write introduction and essay about why attend college |
